@@ -13,7 +13,7 @@ Let’s get the basic points regarding submission out of the way.
     - Use your IIT BHU ID and download the educational version.
     - If you’re too rich, Fusion 360 is the only option for you. (Mac Users)
   - Though the instructions will be in SW, you can use any program you like. Only difference will be in the menus and interface. We can only clear doubts of
-Fusion 360, SW and CATIA. (Not AutoCAD)
+Fusion 360, SW , Inventor and CATIA. (Not AutoCAD)
   - Try to download SW, it will be easier to follow along the tutorials.
 
 <p align="left">
