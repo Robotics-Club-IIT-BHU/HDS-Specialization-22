@@ -10,7 +10,7 @@ Remember to use all the previously gained knoweledge to make this part. Good luc
 You can download the image here or find it in the media file in our home page of HDS-Specialization-22.
 </p>
 _Try doing it yourself.This will help in improving your understanding of revolving bases.
-If you want a Hint, then see this [model](https://github.com/Robotics-Club-IIT-BHU/HDS-Specialization-22/blob/main/media/elbow-pipe-fiting-iso.png) for an almost isometric view_ 
+If you want a Hint, then see this [image]https://github.com/Robotics-Club-IIT-BHU/HDS-Specialization-22/blob/main/media/elbow-pipe-fiting-iso.png for an almost isometric view_ 
 Else feel free to contact in discord.
 Happy modeling!
 # *END OF WEEEK 1!*
