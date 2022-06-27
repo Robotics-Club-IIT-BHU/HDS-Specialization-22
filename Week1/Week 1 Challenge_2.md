@@ -1,8 +1,6 @@
 # Week 1 Challenge 2
-## We hope that you have watched the previous viedos and completed challenge 1
-
-# Now Challenge 2 
-## Create this Elbow-Pipe-fitting in SW.
+## We hope that you have watched the previous viedos and completed challenge 1.
+## Task : Create this Elbow-Pipe-fitting in SW.
 Remember to use all the previously gained knoweledge to make this part. Good luck!
 
 <p align="center">
