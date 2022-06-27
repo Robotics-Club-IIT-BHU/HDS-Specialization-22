@@ -2,7 +2,8 @@
 ## We hope that you have watched the previous viedos and completed challenge 1
 
 # Now Challenge 2 
-## Create this connecting Elbow-Pipe-fitting in SW. Remember to use all the previously gained knoweledge to make this part. Good luck!
+## Create this Elbow-Pipe-fitting in SW.
+Remember to use all the previously gained knoweledge to make this part. Good luck!
 
 <p align="center">
  <img width="600" height="600" src="https://github.com/Robotics-Club-IIT-BHU/HDS-Specialization-22/blob/main/media/elbow-pipe-fitting.png">
