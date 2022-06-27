@@ -14,5 +14,3 @@ If you want a Hint, then see this [model](https://github.com/Robotics-Club-IIT-B
 Else feel free to contact in discord.
 Happy modeling!
 # *END OF WEEEK 1!*
-
-
