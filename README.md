@@ -74,3 +74,4 @@ When your 3D model is complete, and you've checked it for errors, make a renderi
 
 ## If you made it so far, Good Start. You can now head to week 1! Start with the Installation and Introduction file. 
 
+# Update!! Week 2 content released! Start with the readme.md file in Week 2.
